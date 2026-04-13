@@ -1,2 +1,2 @@
 # OILP2026
-Olimpiada Informática de Las Palmas 2026
+IV Olimpiada Informática de Las Palmas 2026
